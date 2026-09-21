@@ -31,7 +31,7 @@ E, principalmente, vamos procurar formas de aplicar IA em situações reais de t
 
 ## 👨‍🏫 Sobre o Formador
 
-![alt text](resources/jonatasia.png)
+![alt text](../resources/jonatasia.png)
 
 **Jônatas Afonso** é **Microsoft Certified Trainer (MCT)** com mais de **20 anos de experiência em tecnologia**, tendo atuado em projetos de desenvolvimento de software em **4 países** e mais de **10 empresas diferentes**.
 Ao longo da carreira, trabalhou com arquitetura de soluções, DevOps, automação em larga escala e plataformas cloud — com destaque para **Azure**, **Azure DevOps**, **SonarQube**, **Azure Data Explorer** e o ecossistema .NET.
