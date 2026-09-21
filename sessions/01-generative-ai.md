@@ -315,6 +315,7 @@ O objetivo é aprender conceitos e habilidades que possam ser aplicados em difer
 -- Gamma: https://gamma.app/
 -- Midjourney: https://www.midjourney.com/
 -- NotebookLM: https://notebooklm.google.com/ 
+-- MCP e Agentes: Em substituição ao RPA
 
 
 ---

@@ -11,10 +11,6 @@ The goal is not to learn a specific AI tool, but to learn **how to work effectiv
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# 🧱 Architectures & Design Patterns
-
-Repositório oficial do curso **Architectures & Design Patterns**, promovido pela MoOngy.  
-Este espaço reúne conteúdos, exemplos práticos, e materiais de apoio utilizados durante a formação.
 
 ## 👨‍🏫 Sobre o Formador
 
