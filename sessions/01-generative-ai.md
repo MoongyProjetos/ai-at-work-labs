@@ -310,12 +310,17 @@ Por isso, o objetivo deste workshop **não é decorar ferramentas**.
 
 O objetivo é aprender conceitos e habilidades que possam ser aplicados em diferentes ferramentas.
 
--- Suno: Geração de áudio
--- Azure Foundry: Generalista e sistemas profissionais
--- Gamma: https://gamma.app/
--- Midjourney: https://www.midjourney.com/
--- NotebookLM: https://notebooklm.google.com/ 
--- MCP e Agentes: Em substituição ao RPA
+|Ferramenta|Objetivo|Link|
+|---|--|--|
+|Suno| Geração de áudio |https://suno.com/| 
+|Gamma| Geração de apresentações |https://gamma.app/|
+|Midjourney| Geração de imagens |https://www.midjourney.com/|
+|NotebookLM| Trabalho colaborativo |https://notebooklm.google.com/|
+
+
+
+- Azure Foundry: Generalista e sistemas profissionais
+- MCP e Agentes: Em substituição ao RPA
 
 
 ---
