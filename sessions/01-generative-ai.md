@@ -310,6 +310,13 @@ Por isso, o objetivo deste workshop **não é decorar ferramentas**.
 
 O objetivo é aprender conceitos e habilidades que possam ser aplicados em diferentes ferramentas.
 
+-- Suno: Geração de áudio
+-- Azure Foundry: Generalista e sistemas profissionais
+-- Gamma: https://gamma.app/
+-- Midjourney: https://www.midjourney.com/
+-- NotebookLM: https://notebooklm.google.com/ 
+
+
 ---
 
 # 10. IA como copiloto
