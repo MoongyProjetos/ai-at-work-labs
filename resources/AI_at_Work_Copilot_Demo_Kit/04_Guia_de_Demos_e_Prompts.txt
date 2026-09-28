@@ -1,0 +1,54 @@
+KIT DE DEMONSTRAÇÃO — MICROSOFT COPILOT
+
+CASO: Projeto Atlas — Modernização da Plataforma de Atendimento
+
+ORDEM RECOMENDADA DA DEMO
+
+1) WORD
+Abra 01_Projeto_Atlas_Documento.docx.
+
+Prompts:
+- "Resuma este documento em cinco pontos principais."
+- "Transforme este documento num resumo executivo de uma página destinado à direção."
+- "Identifique os três maiores riscos e explique o impacto de cada um."
+- "Extraia decisões, ações, responsáveis e próximos passos."
+- "Reescreva o resumo para uma audiência sem conhecimento técnico."
+- "Crie uma apresentação executiva baseada neste documento, com 7 a 8 slides."
+
+2) EXCEL
+Abra 02_Projeto_Atlas_Vendas.xlsx.
+
+Prompts:
+- "Analise os dados de vendas e identifique os cinco principais insights."
+- "Compare a receita por região e identifique diferenças relevantes."
+- "Quais produtos parecem apresentar maior crescimento?"
+- "Identifique anomalias que mereçam investigação."
+- "Sugira três gráficos adequados para uma reunião com a direção."
+- "Que perguntas um gestor deveria responder antes de tomar uma decisão com base nestes dados?"
+
+IMPORTANTE: depois do insight, peça evidência:
+"Para cada conclusão, indique o dado que suporta a conclusão e uma hipótese alternativa."
+
+3) POWERPOINT
+Abra 03_Projeto_Atlas_Apresentacao.pptx.
+
+Prompts:
+- "Revise esta apresentação como um executivo que tem cinco minutos para entender o conteúdo."
+- "Identifique slides redundantes e excesso de texto."
+- "Torne a apresentação mais executiva e objetiva."
+- "Sugira uma estrutura melhor para contar a história."
+- "Crie uma versão com foco em decisão, riscos e próximos passos."
+
+4) DEMO DE TRANSFORMAÇÃO
+Mostre o fluxo:
+Word -> resumo executivo -> PowerPoint
+Excel -> insights -> gráfico -> PowerPoint
+
+MENSAGEM CENTRAL:
+"A IA não serve apenas para criar conteúdo. Ela pode transformar o mesmo contexto em diferentes formatos de trabalho."
+
+REGRAS DO FORMADOR
+- Não use dados reais de clientes.
+- Explique que resultados precisam ser validados.
+- Se uma funcionalidade não aparecer, verifique licença, conta, versão e configuração.
+- Tenha screenshots de backup das demos mais importantes.
